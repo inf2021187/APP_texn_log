@@ -14,4 +14,4 @@ RUN pip install -r requirements.txt
 EXPOSE 5000
 
 # Ορίζουμε την εντολή που θα εκτελείται κατά την εκκίνηση του container
-CMD ["python", "app.py"]
+CMD ["python", "APP.py"]
